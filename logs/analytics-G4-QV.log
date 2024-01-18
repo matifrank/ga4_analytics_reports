@@ -1,0 +1,25 @@
+[08/08/2023 17:11:38] Running batch reports GA 4 
+[08/08/2023 17:11:38] loading parameters from reports in config file
+[08/08/2023 17:11:38] Generating Api request
+[08/08/2023 17:11:41] Response received
+[08/08/2023 17:11:41] Generating Api request
+[08/08/2023 17:11:42] Response received
+[08/08/2023 17:11:42] Generating Api request
+[08/08/2023 17:11:43] Response received
+[08/08/2023 17:11:43] Generating Api request
+[08/08/2023 17:11:47] Response received
+[08/08/2023 17:11:47] Converting response into Dataframe
+[08/08/2023 17:11:49] Dataframe created
+[08/08/2023 17:11:49] Creating DataFrame
+[08/08/2023 17:11:50] Generating location files path..
+[08/08/2023 17:11:50] Removing file from yesterday if it already exists (optional)..
+[08/08/2023 17:11:50] Exporting DataFrame to CSV in each location..
+[08/08/2023 17:11:50] Generating location files path..
+[08/08/2023 17:11:50] Removing file from yesterday if it already exists (optional)..
+[08/08/2023 17:11:50] Exporting DataFrame to CSV in each location..
+[08/08/2023 17:11:50] Generating location files path..
+[08/08/2023 17:11:50] Removing file from yesterday if it already exists (optional)..
+[08/08/2023 17:11:50] Exporting DataFrame to CSV in each location..
+[08/08/2023 17:11:50] Generating location files path..
+[08/08/2023 17:11:50] Removing file from yesterday if it already exists (optional)..
+[08/08/2023 17:11:50] Exporting DataFrame to CSV in each location..

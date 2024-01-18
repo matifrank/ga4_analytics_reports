@@ -1,0 +1,25 @@
+[04/01/2024 11:05:59] Running batch reports GA 4 
+[04/01/2024 11:05:59] loading parameters from reports in config file
+[04/01/2024 11:05:59] Generating Api request
+[04/01/2024 11:06:00] Response received
+[04/01/2024 11:06:00] Generating Api request
+[04/01/2024 11:06:01] Response received
+[04/01/2024 11:06:01] Generating Api request
+[04/01/2024 11:06:01] Response received
+[04/01/2024 11:06:01] Generating Api request
+[04/01/2024 11:06:03] Response received
+[04/01/2024 11:06:03] Converting response into Dataframe
+[04/01/2024 11:06:03] Dataframe created
+[04/01/2024 11:06:03] Creating DataFrame
+[04/01/2024 11:06:03] Generating location files path..
+[04/01/2024 11:06:03] Removing file from yesterday if it already exists (optional)..
+[04/01/2024 11:06:03] Exporting DataFrame to CSV in each location..
+[04/01/2024 11:06:03] Generating location files path..
+[04/01/2024 11:06:03] Removing file from yesterday if it already exists (optional)..
+[04/01/2024 11:06:03] Exporting DataFrame to CSV in each location..
+[04/01/2024 11:06:03] Generating location files path..
+[04/01/2024 11:06:03] Removing file from yesterday if it already exists (optional)..
+[04/01/2024 11:06:03] Exporting DataFrame to CSV in each location..
+[04/01/2024 11:06:03] Generating location files path..
+[04/01/2024 11:06:03] Removing file from yesterday if it already exists (optional)..
+[04/01/2024 11:06:03] Exporting DataFrame to CSV in each location..

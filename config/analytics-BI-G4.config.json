@@ -1,0 +1,19 @@
+{
+	"ROOT_PATH": "C:\\test\\",
+	"REPORTS": [
+		{
+			"NAME": "analyticstransaction",
+			"METRICS": [{"name": "totalPurchasers"}],
+			"DIMENSIONS": [{"name": "transactionId"}, {"name": "sessionCampaignName"},{"name":"sessionManualAdContent"},{"name": "sessionGoogleAdsCampaignId"},{"name":"sessionGoogleAdsAdGroupName"},{"name":"sessionGoogleAdsAdGroupId"},{"name":"sessionGoogleAdsCreativeId"} ,{"name":"sessionMedium"}],
+			"HEADER": ["Transaction ID", "Campaign", "Ad Content", "Google Ads Campaign ID", "Google Ads Ad Group","Google Ads Ad Group ID","Google Ads Creative ID", "Medium","Transactions"],
+			"FILEPATH" : "Analytics\\csv campaignTransaction %s %s-%s.csv",
+            "DATE":[{ "start_date": "", "end_date": ""}],
+			"SITES": [
+				{"PROPID":"295939237","FOLDER":"AR","IDSITE":"1","KEY":"Buscouniversidad.com"}, 
+				{"PROPID":"313573913","FOLDER":"MX","IDSITE":"4","KEY":"MX Cursos y Carreras"},
+				{"PROPID":"313562196","FOLDER":"CL","IDSITE":"3","KEY":"CL Cursos y Carreras"},
+				{"PROPID":"313581298","FOLDER":"CO","IDSITE":"5","KEY":"CO Cursos y Carreras"}
+			]			
+		}
+	]
+}

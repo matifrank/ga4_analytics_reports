@@ -1,0 +1,19 @@
+{
+	"ROOT_PATH": "C:\\test\\",
+	"REPORTS": [
+		{
+			"NAME": "campaign-transaction-QV",
+			"METRICS": [{"name": "totalPurchasers"}],
+			"DIMENSIONS": [{"name": "transactionId"}, {"name": "sessionCampaignName"}],
+			"HEADER": ["Transaction ID", "Campaign","Transactions"],
+			"FILEPATH" : "Analytics2\\csv campaignTransaction %s %s-%s.csv",
+            "DATE":[{ "start_date": "", "end_date": ""}],
+			"SITES": [
+				{"PROPID":"295939237","FOLDER":"AR","IDSITE":"1","KEY":"Buscouniversidad.com"}, 
+				{"PROPID":"313573913","FOLDER":"MX","IDSITE":"4","KEY":"MX Cursos y Carreras"},
+				{"PROPID":"313562196","FOLDER":"CL","IDSITE":"3","KEY":"CL Cursos y Carreras"},
+				{"PROPID":"313581298","FOLDER":"CO","IDSITE":"5","KEY":"CO Cursos y Carreras"}
+			]			
+		}
+	]
+}

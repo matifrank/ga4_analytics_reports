@@ -1,7 +1,7 @@
 # scripts Analytics BI Reports - Api GA 4 
 
 Summary:
-Develop new Automation Scripts for Generating GA4 Analytics Reports to be consumed and modeled by two different software.
+Develop new Automation Scripts for Generating GA4 Analytics Reports to being consumed and modeled by two different softwares.
 
 Description:
 Create Python scripts to automate the generation of analytical reports. The script retrieves data from Google Analytics 4 properties, processes the results, and exports them to CSV files. The script handles multiple sites, metrics, and dimensions, allowing flexible configurations for properties and reports.
